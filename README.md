@@ -1,0 +1,1 @@
+Unfortunately, the spaceship writeup was lost due to my school drive being deleted without prior notice. I am working on recreating the content and will update the repository as soon as it's ready. Apologies for any inconvenience this may cause.
